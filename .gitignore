@@ -1,0 +1,9 @@
+### Virtual enviroment ignore
+
+bin/
+
+include/
+
+lib/
+
+*.cfg
