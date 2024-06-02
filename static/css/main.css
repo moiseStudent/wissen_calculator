@@ -1,7 +1,2 @@
-body {
-    background: #000;
-}
-
-h1 {
-    color:#ccc;
-}
+/* Normalize style */
+@import 'normalize.css'
